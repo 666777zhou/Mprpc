@@ -8,6 +8,6 @@
 4.实现zookeeper进行Rpc方法的注册和分发
 
 使用
-bash ./autobuild.sh # 可一键编译
+`bash ./autobuild.sh` # 可一键编译
 Rpc方法消费者和提供者用例见example/
 需绑定配置文件，配置文件有Rpc方法提供者ip、端口号，zk的ip、端口号
